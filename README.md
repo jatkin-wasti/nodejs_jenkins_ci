@@ -9,6 +9,7 @@ vagrant up along with 2 commands inside the virtual machine
 - Vagrant
 - VirtualBox
 ## Instructions
+
 - Clone this repo  with `git clone`
 - Run `vagrant up`
 - Run `vagrant ssh app`
