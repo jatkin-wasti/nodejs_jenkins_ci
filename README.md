@@ -14,8 +14,4 @@ vagrant up
 - Run `vagrant ssh app`
 - Run `ps aux | grep node` and then run `kill <process_id_for node app.js>`
 - Run npm start
-- Go to `development.local:3000` or `192.168.10.100:3000`
-
-### Getting set up
-
-### Running the environment
+- Go to `development.local`
