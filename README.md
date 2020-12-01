@@ -15,3 +15,7 @@ vagrant up
 - Run `ps aux | grep node` and then run `kill <process_id_for node app.js>`
 - Run npm start
 - Go to `development.local`
+
+## Tests
+### Integration Tests
+### Unit Tests
