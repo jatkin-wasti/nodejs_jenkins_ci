@@ -28,4 +28,22 @@ vagrant up along with 2 commands inside the virtual machine
 in use" then stop the app and start it again (you can see how to do this in the
   4th and 5th bullet points of the 'Instructions' section)
 
-## timeline change tracker
+## Branching
+**creating a branch**
+```bash
+git checkout -b <branch>
+```
+**changing to existing branch**
+```bash
+git checkout <branch>
+```
+**commit to branch as normal**
+```bash
+git add .
+git commit -m "commit message"
+```
+**once committed, push specific branches to origin**
+```bash
+git push origin <branch>
+git commit -m "commit message"
+```
