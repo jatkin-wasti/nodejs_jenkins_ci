@@ -18,4 +18,8 @@ vagrant up
 
 ## Tests
 ### Integration Tests
+- `cd` into tests directory
+- run `bundle install`
+- run `rake spec`
 ### Unit Tests
+-
