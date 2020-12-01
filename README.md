@@ -2,7 +2,7 @@
 
 ## Intro
 This repo will be a dev env that you can set up by cloning it and running
-vagrant up
+vagrant up along with 2 commands inside the virtual machine
 ## Pre-Requisites
 - Git
 - Ruby
