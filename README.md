@@ -22,4 +22,8 @@ vagrant up
 - run `bundle install`
 - run `rake spec`
 ### Unit Tests
--
+- enter the virtual machine set up for the app with `vagrant ssh app`
+- `cd` into /home/ubuntu/app
+- run `npm test`, if there is an error along the lines of "port 3000 already
+in use" then stop the app and start it again (you can see how to do this in the
+  4th and 5th bullet points of the 'Instructions' section)
