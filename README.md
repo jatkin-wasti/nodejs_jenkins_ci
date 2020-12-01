@@ -15,7 +15,6 @@ vagrant up along with 2 commands inside the virtual machine
 - Run `ps aux | grep node` and then run `kill <process_id_for node app.js>`
 - Run npm start
 - Go to `development.local`
-
 ## Tests
 ### Integration Tests
 - `cd` into tests directory
