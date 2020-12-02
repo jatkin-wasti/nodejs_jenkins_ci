@@ -47,7 +47,5 @@ git commit -m "commit message"
 git push origin <branch>
 git commit -m "commit message"
 ```
-## Adding this section for testing purposes
-- Let's see if this works
-- It does, this is amazing!
-- One more time just to be really sure
+## Proof of the connected Jenkins jobs successfully running
+![Jenkins CI](/images/jenkins_ci_proof.png)
