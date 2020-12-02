@@ -48,4 +48,4 @@ git push origin <branch>
 git commit -m "commit message"
 ```
 ## Proof of the connected Jenkins jobs successfully running
-![Jenkins CI](/images/jenkins_ci_proof.png)
+![Jenkins CI](/images/jenkins_ci_proof.PNG)
